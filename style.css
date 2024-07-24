@@ -1,0 +1,25 @@
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+    border: 5px white solid;
+    width: 100%;
+}
+div{
+    margin-left: 25%;
+    width: 50%;
+}
+body{
+    background-color: black;
+}
+p{
+    color: aquamarine;
+    font-size: 25px;
+    margin-left:15% ;
+}
